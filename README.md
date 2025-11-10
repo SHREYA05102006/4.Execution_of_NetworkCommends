@@ -71,9 +71,11 @@ s.close()
 
 ## Output
 client.py
+
 <img width="680" height="176" alt="image" src="https://github.com/user-attachments/assets/d9bd6779-9ca0-4a29-954f-a981c012efb0" />
 
 server.py
+
 <img width="709" height="237" alt="image" src="https://github.com/user-attachments/assets/d5ae0b01-b7cb-4cd6-90c3-ef9fec0c865c" />
 
 
